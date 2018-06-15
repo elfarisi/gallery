@@ -16,7 +16,7 @@
 
 <!-- Text input-->
 <div class="form-group required">
-  <label class="col-md-4 control-label" for="textinput">Album's title</label>  
+  <label class="col-md-4 control-label" for="textinput">The album's title</label>  
   <div class="col-md-4">
   <input id="textinput" name="title" placeholder="" value="{{ $section->title }}" class="form-control input-md" type="text" required>
   </div>
