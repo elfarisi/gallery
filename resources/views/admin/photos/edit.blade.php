@@ -32,7 +32,7 @@
 
 <!-- File Button --> 
 <div class="form-group required">
-  <label class="col-md-4 control-label" for="filebutton">Photo</label>
+  <label class="col-md-4 control-label" for="filebutton">Photograph</label>
   <div class="col-md-4">
     <img src="{{ Storage::url($photo->directory . '/web_' . $photo->filename) }}" width="360px" />
   </div>
