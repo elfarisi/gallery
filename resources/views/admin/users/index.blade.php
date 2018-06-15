@@ -10,7 +10,7 @@
      <thead class="thead-inverse">
         <tr>
             <th>#</th>
-            <th>Full Name</th>
+            <th>Firt & Last Name</th>
             <th>Provider</th>
             <th>Comments</th>
         </tr>
