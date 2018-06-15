@@ -34,4 +34,8 @@ class Photo extends Model
         $type .= $type ? '_' : '' ;
         return  Storage::url($this->directory . '/'. $type . $this->filename);
     }
+
+    public function album() {
+        return $this->belongsTo('App\Album');
+    }
 }
