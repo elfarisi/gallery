@@ -9,7 +9,8 @@
 
   
   <h1>Hello ! </h1>
-  Maybe put some stats in here ...
+  This is the first stat
+  <div id="stats"></div>
   </div>
 
 
